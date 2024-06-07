@@ -1,0 +1,29 @@
+*{
+    background-color: rgb(1, 27, 18);
+    background-size: auto;
+}
+h1{
+    color:beige;
+    text-align: left;
+    text-transform: lowercase;
+    font-weight: 700;
+    font-size: medium;
+    font-family: cursive;
+}
+a{
+    color:beige;
+    font-family: monospace;
+    font-weight: 200;
+    font-style: normal;
+    text-align: left;
+    text-transform: capitalize;
+    height: 10px;
+    width: max-content;
+    padding: 4px;
+    border: 2px;
+    border-color: black;
+    margin-right: 30px;
+}
+#search{
+    margin-right: 0px;
+}

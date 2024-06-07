@@ -1,0 +1,37 @@
+*{
+   background-color: aqua;
+}
+H1{
+    color:brown;
+    text-align: center;
+    height: 100px;
+    width : 100px;
+    text-align: center;
+    background-color: black;
+}
+h2{
+    color: blue;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    background-color: black;
+}
+h3{
+    color:salmon;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    background-color: black;
+}
+div{
+    background-color: black;
+    height: 200px;
+    width: 300px;
+    color: blueviolet;
+    text-align: center;
+    padding: 150px;
+    border-style: double;
+    border-radius: 50%;
+    border-color: rgb(140, 21, 36);
+    margin: 34px;
+}

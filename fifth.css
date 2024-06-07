@@ -1,0 +1,22 @@
+p{
+    color:rgb(160, 15, 117);
+    text-align: center;
+}
+*{
+    background-color: whitesmoke;
+}
+#myId{
+    color :brown;
+    text-align: center;
+}
+h1{
+    color:blueviolet;
+    text-decoration: dotted;
+    text-transform: capitalize;
+    text-decoration-color: blueviolet;
+    text-align: center;
+    font-weight: 900;
+}
+.myclass{
+    color :blue
+}
